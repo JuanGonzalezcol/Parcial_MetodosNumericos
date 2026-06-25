@@ -1,0 +1,10 @@
+{
+  "ticker": "XLE",
+  "snapshot_utc": "2026-06-24T21:30:23.574470+00:00",
+  "S0": 53.56999969482422,
+  "r": 0.03690000057220459,
+  "r_source": "^IRX (T-bill 13 sem.) / 100",
+  "n_expiries": 12,
+  "source": "yfinance / Yahoo Finance",
+  "day_count": "ACT/365"
+}
